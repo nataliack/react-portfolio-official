@@ -33,7 +33,10 @@ const Technologies = () =>  (
           <ListParagraph>
             Experienced with: <br/> <br/>
             HTML/CSS <br/>
-            Draw.io 
+            Draw.io <br/>
+            Figma <br/>
+            Adobe XD <br/>
+            Canva <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
