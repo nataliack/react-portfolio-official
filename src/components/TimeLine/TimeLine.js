@@ -101,7 +101,7 @@ const AnimatedLogo = styled(NeonSign)`
         <br/><br/>
         Currently studying at Coder Academy - Brisbane, Australia.
         <br/>
-        <a href="#" target="_blank">Download Resume</a>
+        <a href="src/components/TimeLine/NataliaChamonKovalenko-Resume.pdf" target="_blank">Download Resume</a>
       </SectionText>
       
       {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
