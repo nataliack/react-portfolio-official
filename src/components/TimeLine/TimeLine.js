@@ -67,7 +67,7 @@ const Timeline = () => {
       flexDirection: "vertical",
       justifyContent: "right",
       alignItems: "right",
-      height: "100%",
+      height: "auto",
       width: "50%",
       float: "right",
     }
@@ -84,7 +84,7 @@ const AnimatedLogo = styled(NeonSign)`
       </SectionTitle>
         <div class="image-container"> 
           <div class="image" style={styles.container}> 
-            <img style={{ resizeMode: "right", height: 400, width: 400}} src="/images/perfectprofile.png" alt=""/>
+            <img style={{ resizeMode: "right", height: 400, width: 400}} src="/images/perfectprofile.png" alt="" class="responsive"/>
           </div>
           <AnimatedLogo/>
           <NeonSign class="logo">

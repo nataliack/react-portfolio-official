@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin, AiOutlineMail } from 'react-icons/ai';
 // import { FaAsterisk } from 'react-icons/fa';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
@@ -42,8 +42,11 @@ const Header = () =>  (
       <SocialIcons href="https://github.com/nataliack">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="/#">
+      <SocialIcons href="https://www.linkedin.com/in/natalia-chamon-8201a8226/">
         <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="mailto:natalia.chamom@gmail.com">
+        <AiOutlineMail size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>
