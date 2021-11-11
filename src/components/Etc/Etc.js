@@ -30,14 +30,14 @@ const Data = [
 
 const projectsone = [
     {
-        image: '/images/artfour.jpg',
+        image: ' /images/artnine.jpeg',
         id: 0,
       },
     {
-        image: '/images/artthree.jpg',
+        image: ' /images/artsixteen.jpeg',
         id: 1,
       },
-    {
+      {
         image: '/images/arttwo.jpg',
         id: 2,
       },
@@ -53,12 +53,13 @@ const projectsone = [
         image: '/images/artthirteen.JPG',
         id: 5,
     },
+
     {
-        image: '/images/artnine.jpeg',
+        image: '/images/artfour.jpg',
         id: 6,
     },
     {
-        image: '/images/artfourteen.jpeg',
+        image: '/images/artthree.jpg',
         id: 7,
     },
 

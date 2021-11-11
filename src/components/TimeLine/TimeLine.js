@@ -93,7 +93,7 @@ const AnimatedLogo = styled(NeonSign)`
               <Bold>h<Inline>e</Inline>yy<Inline>yy</Inline>..</Bold>
               </neonAnimation>
           </NeonSign>
-          
+          <br/><br/><br/>
         </div>
      
       <SectionText >
