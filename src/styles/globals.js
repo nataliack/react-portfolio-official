@@ -20,7 +20,8 @@ const GlobalStyles = createGlobalStyle`
 
     color: #212d45;s ${props => props.theme.colors.primary1};
     cursor: default;
-    background:  #D4B499;
+   
+    background: #A0937D;
   }
 
   h1,h2,h3,h4,h5,h6,button {
